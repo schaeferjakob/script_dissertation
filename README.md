@@ -19,6 +19,8 @@ Here are functions that I have written for overarching tasks. These can be acces
 Additional scripts that cannot be assigned to the above folders are stored here.
 These include, for example, scripts for visualising data or for statistical evaluation. 
 
+## Bayesian optimizer
+Scripts for optimising the input variables for the calculations are stored here. The optimisation is based on a Bayesian optimiser.
 
 <hr/> 
 The scripts deposited here are the intellectual property of Jakob Schäfer. They are for information purposes only. Any liability is excluded.
